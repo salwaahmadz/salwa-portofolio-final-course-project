@@ -66,7 +66,7 @@ html{
 
 .work-overview{
     display: grid;
-    grid-template-row: auto;
+    grid-template-columns: auto;
     justify-content: center;
     gap: 50px;
     padding: 5%;
